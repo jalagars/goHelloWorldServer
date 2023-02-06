@@ -1,7 +1,7 @@
 # HelloWorldGoServer - Jayaraman 
 
 checking push & PR -
-checking if commit in Readme doesn't trigger build
+checking if commit in Readme doesn't trigger build ....
 GO + Docker + unit tests
 
 
