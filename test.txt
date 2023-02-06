@@ -8,3 +8,4 @@ testing with message CI_SKIP
 testing with message CI_SKIP
 valid commit
 valid commit 2
+testing with message CI_SKIP
