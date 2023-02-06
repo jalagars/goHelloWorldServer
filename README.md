@@ -2,6 +2,7 @@
 
 checking push & PR -
 checking if commit in Readme doesn't trigger build ....
+Testing commit message
 GO + Docker + unit tests
 
 
